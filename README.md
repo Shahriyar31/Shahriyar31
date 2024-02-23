@@ -3,7 +3,7 @@
 
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this I am very grateful.
 
-Skills: Python
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,anaconda,tensorflow,pytorch,vscode,git,github,linkedin,figma,replit,stackoverflow,sublime)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Python Projects. 
 - 🌱 I’m currently learning Machine Learning. 
