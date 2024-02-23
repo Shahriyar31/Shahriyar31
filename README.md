@@ -1,5 +1,8 @@
 ### Hi there 👋, Farhan Shahriyar
+
+
 ####  A technophile who has always been interested to learn Computer Science, especially Artificial Intelligence, Machine Learning and Software Development to 'fix programming issues. 
+
 
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this I am very grateful.
 
