@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahriyar31.shahriyar31" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi+There!+👋;+I'm+Farhan+Shahriyar!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=45&center=true&vCenter=true&width=500&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Farhan+Shahriyar!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India, currently pursuing a Master's in Data Science in Germany.</h3>
+<h3 align="center" style="font-size: 24px; color: #2AB0EE;">A passionate data engineer and machine learning enthusiast from India, currently pursuing a Master's in Data Science in Germany.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Frontend+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer" width="auto" height="35"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=35&center=true&vCenter=true&width=450&duration=3000&pause=1000&lines=Data+Engineer;Machine+Learning+Explorer" width="auto" height="35"/>
 </p>
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">About Me</h2>
 <p align="center" style="max-width: 800px; margin: auto;">
-  I'm Farhan Shahriyar, a frontend developer with a keen interest in data science and machine learning. I am currently based in Germany, pursuing a Master's in Data Science while exploring various technologies and tools to enhance my skills. I am passionate about creating innovative solutions and working on personal projects that challenge my problem-solving abilities.
+  I'm <strong style="font-size: 40px; color: #2AB0EE;">Farhan Shahriyar</strong>, a data engineer with a keen interest in machine learning. I am currently based in Germany, pursuing a Master's in Data Science while exploring various technologies and tools to enhance my skills. I am passionate about creating innovative solutions and working on personal projects that challenge my problem-solving abilities.
 </p>
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">Languages</h2>
@@ -40,6 +40,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=#242424&color=47A248" height="60" style="margin: 0 10px;" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white&labelColor=#242424&color=00758F" height="60" style="margin: 0 10px;" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=#242424&color=4169E1" height="60" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&labelColor=#242424&color=000000" height="60" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=#242424&color=F37626" height="60" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=#242424&color=FCC624" height="60" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=#242424&color=0078D6" height="60" style="margin: 0 10px;" />
 </p>
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">Most Used Languages</h2>
@@ -49,9 +53,13 @@
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">⚡ Stats ⚡</h2>
 <p align="center">
-  <img align="center" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyar31&theme=dark" alt="shahriyar31" />
-  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&locale=en&theme=dark" alt="shahriyar31" />
+  <!-- Streak Stats -->
+  <img align="center" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyar31&theme=black-ice&background=242424&ring=2AB0EE&fire=2AB0EE" alt="shahriyar31" />
+
+  <!-- GitHub Stats -->
+  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&locale=en&theme=radical&bg_color=242424&border_color=2AB0EE" alt="shahriyar31" />
 </p>
+
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">Additional Stats</h2>
 <p align="center">
@@ -62,7 +70,9 @@
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">Trophies</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriyar31&theme=dark" alt="shahriyar31" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahriyar31&theme=darkhub&row=1&column=6" alt="shahriyar31" />
+  </a>
 </p>
 
 <h2 align="center" style="font-size: 36px; color: #2AB0EE;">Connect with Me</h2>
