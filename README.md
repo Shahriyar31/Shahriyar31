@@ -128,3 +128,8 @@
   <!-- GitHub Stats -->
   <img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&locale=en&theme=radical&bg_color=242424&border_color=2AB0EE" alt="shahriyar31" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
