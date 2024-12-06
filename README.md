@@ -114,16 +114,18 @@
 
 <h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Connect with Me ⚡</h2>
 <div align="left">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/farhanshahriyar" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <!-- Gmail -->
-  <a href="mailto:shahriyarfarhan3101@gmail.com" target="_blank">      
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-      <!-- Outlook -->
-  <a href="shahriyarfarhan3101@outlook.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/farhanshahriyar" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<!-- Gmail -->
+<a href="mailto:shahriyarfarhan3101@gmail.com" target="_blank">      
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<!-- Outlook -->
+<a href="shahriyarfarhan3101@outlook.com" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+<!-- StackOverflow -->
+<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
 
 <h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Stats ⚡</h2>
