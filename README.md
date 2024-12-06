@@ -4,83 +4,127 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=45&center=true&vCenter=true&width=500&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Farhan+Shahriyar!;" />
 </h1>
 
-<h3 align="center" style="font-size: 24px; color: #2AB0EE;">A passionate data engineer and machine learning enthusiast from India, currently pursuing a Master's in Data Science in Germany.</h3>
+<h3 align="left" style="font-size: 24px; color: #2AB0EE;">A passionate Data Science and Machine Learning enthusiast from India, currently pursuing a Master's in Data Science in Germany.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=35&center=true&vCenter=true&width=450&duration=3000&pause=1000&lines=Data+Engineer;Machine+Learning+Explorer" width="auto" height="35"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=35&center=true&vCenter=true&width=450&duration=3000&pause=1000&lines=Data+Science;Data+Engineer;Machine+Learning+Explorer" width="auto" height="35"/>
 </p>
 
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">About Me</h2>
-<p align="center" style="max-width: 800px; margin: auto;">
-  I'm <strong style="font-size: 40px; color: #2AB0EE;">Farhan Shahriyar</strong>, a data engineer with a keen interest in machine learning. I am currently based in Germany, pursuing a Master's in Data Science while exploring various technologies and tools to enhance my skills. I am passionate about creating innovative solutions and working on personal projects that challenge my problem-solving abilities.
+<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ About Me ⚡</h2>
+<p align="left" style="max-width: 800px; margin: auto;">
+🔭 I’m currently working on: Enhancing my knowledge in MLOps, solving LeetCode problems in Python, and preparing for my exams.<br>👯 I’m looking to collaborate on: Projects in Machine Learning, Data Science, Data Engineering, and solving challenging LeetCode problems—let’s discuss time and space complexity!<br>🤝 I’m looking for help with: Advanced concepts in MLOps, optimizing LeetCode solutions, and mastering algorithmic problem-solving techniques.<br>🌱 I’m currently learning: Expanding my knowledge in technology and refining my problem-solving and coding skills.<br>💬 Ask me about: Data Science, Machine Learning, Python Development, GCP, AWS, and deploying containerized applications using Docker.<br>⚡ Fun fact:  I sometimes refer to my GPU as my "co-pilot" for late-night coding marathons.<br>
 </p>
 
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Languages</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=#242424&color=3776AB" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=#242424&color=276DC3" height="60" style="margin: 0 10px;" />
+<h2 align="left">⚡ I code with ⚡</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+</div>
+
+###
+
+<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ My GitHub Activity and Contributions ⚡</h2>
+<p align="left">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyar31&show_icons=true&locale=en&layout=compact&theme=dark" alt="shahriyar31" width="45%" />
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Shahriyar31&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="shahriyar31" width="45%" />
+  </div>
 </p>
 
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Frameworks</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=#242424&color=339933" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=#242424&color=000000" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=#242424&color=092E20" height="60" style="margin: 0 10px;" />
-</p>
 
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=#242424&color=F05032" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=#242424&color=181717" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=#242424&color=007ACC" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=#242424&color=F24E1E" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=#242424&color=2496ED" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=#242424&color=232F3E" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=#242424&color=4285F4" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=#242424&color=47A248" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white&labelColor=#242424&color=00758F" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=#242424&color=4169E1" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&labelColor=#242424&color=000000" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=#242424&color=F37626" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=#242424&color=FCC624" height="60" style="margin: 0 10px;" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=#242424&color=0078D6" height="60" style="margin: 0 10px;" />
-</p>
-
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Most Used Languages</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyar31&show_icons=true&locale=en&layout=compact&theme=dark" alt="shahriyar31" />
-</p>
-
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">⚡ Stats ⚡</h2>
-<p align="center">
-  <!-- Streak Stats -->
-  <img align="center" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyar31&theme=black-ice&background=242424&ring=2AB0EE&fire=2AB0EE" alt="shahriyar31" />
-
-  <!-- GitHub Stats -->
-  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&locale=en&theme=radical&bg_color=242424&border_color=2AB0EE" alt="shahriyar31" />
-</p>
-
-
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Additional Stats</h2>
-<p align="center">
+<h2 align="left" style="font-size: 36px; color: #2AB0EE; margin-top: 40px;">⚡ Additional Stats ⚡</h2>
+<p align="left" style="margin-top: 40px;">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriyar31&theme=dark" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriyar31&theme=dark&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriyar31&theme=dark" height="180em" alt="Commitments"/>
 </p>
 
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Trophies</h2>
-<p align="center">
+<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Trophies ⚡</h2>
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shahriyar31&theme=darkhub&row=1&column=6" alt="shahriyar31" />
   </a>
 </p>
 
-<h2 align="center" style="font-size: 36px; color: #2AB0EE;">Connect with Me</h2>
-<p align="center">
-  <a href="mailto:shahriyarfarhan3101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red&labelColor=#242424&color=333333" height="60" style="margin: 0 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/shahriyar31" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=#242424&color=0077B5" height="60" style="margin: 0 10px;" />
-  </a>
+<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Connect with Me ⚡</h2>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+</div>
+
+<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Stats ⚡</h2>
+<p align="left" style="margin-bottom: 40px;">
+  <!-- Streak Stats -->
+  <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyar31&theme=black-ice&background=242424&ring=2AB0EE&fire=2AB0EE" alt="shahriyar31" />
+
+  <!-- GitHub Stats -->
+  <img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&locale=en&theme=radical&bg_color=242424&border_color=2AB0EE" alt="shahriyar31" />
 </p>
