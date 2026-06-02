@@ -116,31 +116,38 @@ DATA-PIPELINES  [████████████░░░░░░░░]  
   <a href="https://github.com/Shahriyar31/eu-ai-act-governance-platform"><img src="https://img.shields.io/badge/📦_Source_Code-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-```
-  USER
-   │
-   ▼
-┌──────────────────────────────────────────────────────────┐
-│  LangGraph Agent                                         │
-│  ├── classify       EU AI Act risk tier                  │
-│  ├── router         HIGH / LIMITED / MINIMAL             │
-│  ├── dpia           GDPR Art. 35 generation              │
-│  ├── owasp          LLM Top 10 assessment                │
-│  ├── human_review   interrupt — wait for approval ✋     │
-│  └── summary        PDF compliance report                │
-└──────────────────────────────────────────────────────────┘
-   │
-   ▼
-pgvector RAG  ──►  665+ regulatory chunks  ──►  Groq Llama-3.3-70b
-   │
-   ▼
-┌─────────────────────────────────────────────────────────┐
-│  Infrastructure                                         │
-│  ├── Azure Container Apps · Terraform IaC               │
-│  ├── Multi-tenant · JWT refresh · Stripe billing        │
-│  ├── Prometheus · Grafana · Sentry · Cloudflare Gateway │
-│  └── SAST → SCA → Trivy → ACR  ·  114+ CI/CD runs      │
-└─────────────────────────────────────────────────────────┘
+```mermaid
+graph TD
+    U["👤 User Request"] --> A["🧠 LangGraph Agent Core"]
+    
+    subgraph Regulatory Analysis
+        A --> C1["⚖️ EU AI Act Router"]
+        A --> C2["📋 GDPR Art. 35 DPIA"]
+        A --> C3["🛡️ OWASP LLM Scanner"]
+    end
+    
+    C1 & C2 & C3 --> H["✋ Human-in-the-Loop Gate"]
+    H --> P["📄 PDF Compliance Report"]
+    
+    A <--> DB[("🗄️ pgvector store<br>(665+ Rules)")]
+    A <--> LLM["🚀 Groq Llama-3.3-70B"]
+    
+    P --> Infra["☁️ Azure Container Apps<br>(Prometheus · Grafana · Sentry)"]
+    
+    %% Style classes
+    classDef main fill:#1d6ef5,stroke:#1d6ef5,color:#fff,stroke-width:2px;
+    classDef agent fill:#8b5cf6,stroke:#8b5cf6,color:#fff,stroke-width:2px;
+    classDef database fill:#0089D6,stroke:#0089D6,color:#fff,stroke-width:2px;
+    classDef alert fill:#d83b01,stroke:#d83b01,color:#fff,stroke-width:2px;
+    classDef success fill:#107c10,stroke:#107c10,color:#fff,stroke-width:2px;
+    classDef host fill:#0f172a,stroke:#3b82f6,color:#fff,stroke-width:1px;
+
+    class U main;
+    class A,LLM agent;
+    class DB database;
+    class H alert;
+    class P success;
+    class Infra host;
 ```
 
 #### 🛠️ Deep Tech Architecture
@@ -155,12 +162,64 @@ pgvector RAG  ──►  665+ regulatory chunks  ──►  Groq Llama-3.3-70b
 ### **Nordex Group** — *AI Security & Governance Werkstudent*
 *Aug 2025 – Present | Hamburg, Germany*
 
-```
-┌─────────────────┐     ┌───────────────────┐     ┌─────────────────┐     ┌──────────────────┐
-│   AI SECURITY   │ ──> │   AI GOVERNANCE   │ ──> │   AGENT DEPLOY  │ ──> │ PRODUCT DELIVERY │
-│ SAST/SCA Gates  │     │ Gate 0-5 Policy   │     │ MCP & Foundry   │     │  Cross-Teams PO  │
-└─────────────────┘     └───────────────────┘     └─────────────────┘     └──────────────────┘
-```
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr style="background-color: #0d1117;">
+    <!-- Card 1: AI Security -->
+    <td width="25%" align="left" valign="top" style="border: 2px solid #1904DA; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHASE_1-AI_SECURITY-1904DA?style=for-the-badge" alt="Security Phase" />
+      </div>
+      <br />
+      <b>🔐 SAST & SCA Integration</b>
+      <ul>
+        <li>Audited 9 DevSecOps vulnerability suites</li>
+        <li>Coded custom blocking CI/CD security gates</li>
+        <li>Modeled vectors in OWASP Threat Dragon</li>
+      </ul>
+    </td>
+    
+    <!-- Card 2: AI Governance -->
+    <td width="25%" align="left" valign="top" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHASE_2-AI_GOVERNANCE-8b5cf6?style=for-the-badge" alt="Governance Phase" />
+      </div>
+      <br />
+      <b>📋 Policy & GRC Mapping</b>
+      <ul>
+        <li>Designed the corporate Gate 0-5 workflow</li>
+        <li>Mapped pipeline risks to EU AI Act Annex III</li>
+        <li>Created automated GDPR DPIA checklists</li>
+      </ul>
+    </td>
+    
+    <!-- Card 3: Agent Deployment -->
+    <td width="25%" align="left" valign="top" style="border: 2px solid #0089D6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHASE_3-AGENT_DEPLOY-0089D6?style=for-the-badge" alt="Agent Phase" />
+      </div>
+      <br />
+      <b>🤖 Enterprise RAG Systems</b>
+      <ul>
+        <li>Built Azure AI Foundry integrations</li>
+        <li>Engineered MCP custom function tools</li>
+        <li>Designed 29-scenario LLM-as-a-judge suite</li>
+      </ul>
+    </td>
+    
+    <!-- Card 4: Product Delivery -->
+    <td width="25%" align="left" valign="top" style="border: 2px solid #107c10; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHASE_4-DELIVERY-107c10?style=for-the-badge" alt="Delivery Phase" />
+      </div>
+      <br />
+      <b>🚀 Product Engineering PO</b>
+      <ul>
+        <li>Led delivery across 6 engineering teams</li>
+        <li>Unblocked and integrated enterprise AI tools</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 * **🔐 AI Security Posture**
   * Evaluated **9 DevSecOps tools** on active production images; identified hidden CVEs, Dockerfile issues, and secrets.
@@ -254,17 +313,13 @@ pgvector RAG  ──►  665+ regulatory chunks  ──►  Groq Llama-3.3-70b
 <div align="center">
   <h3>📊 GitHub Infographics</h3>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=shahriyar31&column=7&theme=tokyonight&no-background=true" width="100%" alt="Github Trophies" />
-  
-  <br/><br/>
-  
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=shahriyar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1d6ef5" height="185" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shahriyar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1d6ef5" height="185" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shahriyar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&text_color=c9d1d9&langs_count=8" height="185" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shahriyar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&text_color=c9d1d9&langs_count=8" height="185" />
       </td>
     </tr>
     <tr>
