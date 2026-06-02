@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220">
+  <defs>
+    <!-- Glowing shadow filter -->
+    <filter id="glow-heavy" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Connection Lines (Pulsing Orbit) -->
+  <circle cx="110" cy="100" r="70" fill="none" stroke="#334155" stroke-dasharray="6,6" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" from="0 110 100" to="360 110 100" dur="20s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Left Venn Circle (Policy) -->
+  <circle cx="85" cy="100" r="42" fill="#1d6ef5" fill-opacity="0.15" stroke="#1d6ef5" stroke-width="2.5" />
+  <!-- Scale Icon (⚖️) inside Policy Circle -->
+  <text x="65" y="106" font-family="system-ui, sans-serif" font-size="20" fill="#93c5fd" opacity="0.9">⚖️</text>
+
+  <!-- Right Venn Circle (Code) -->
+  <circle cx="135" cy="100" r="42" fill="#8b5cf6" fill-opacity="0.15" stroke="#8b5cf6" stroke-width="2.5" />
+  <!-- Code Icon (💻) inside Code Circle -->
+  <text x="135" y="106" font-family="system-ui, sans-serif" font-size="20" fill="#cbd5e1" opacity="0.9">💻</text>
+
+  <!-- Overlap Intersection (Governance Shield) -->
+  <g transform="translate(110, 100)">
+    <g>
+      <!-- Pulse scale animation -->
+      <animateTransform attributeName="transform" type="scale" values="1;1.12;1" dur="3s" repeatCount="indefinite" />
+      
+      <!-- Shield shape -->
+      <path d="M -12 -16 L 12 -16 L 12 -4 C 12 5 0 16 0 16 C 0 16 -12 5 -12 -4 Z" fill="#107c10" stroke="#a7f3d0" stroke-width="2" filter="url(#glow-heavy)" />
+      <!-- Star in shield -->
+      <polygon points="0,-4 2.5,3.5 -4,-1.5 4,-1.5 -2.5,3.5" fill="#ffffff" />
+    </g>
+  </g>
+
+  <!-- Labels -->
+  <text x="60" y="165" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800" fill="#93c5fd" text-anchor="middle" letter-spacing="0.5">POLICY (GRC)</text>
+  <text x="160" y="165" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800" fill="#c7d2fe" text-anchor="middle" letter-spacing="0.5">CODE (RAG)</text>
+  <text x="110" y="195" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#a7f3d0" text-anchor="middle" letter-spacing="1" filter="url(#glow-heavy)">GOVERNANCE</text>
+</svg>

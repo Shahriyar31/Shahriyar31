@@ -34,25 +34,18 @@
   <img src=".github/assets/identity.svg" width="100%" alt="AI Governance & DevSecOps Console" />
 </div>
 
-<!-- Side-by-Side Intro -->
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>🛡️ Bridging Policy & Production Code</h3>
-      <p>
-        I operate where regulatory requirements and hands-on system architecture converge. While policy analysts write compliance papers and engineers code black boxes, I write <b>Compliance-as-Code</b>—translating the <b>EU AI Act, GDPR, and NIST AI RMF</b> into automated CI/CD security gates and audited RAG safeguards.
-      </p>
-      <p>
-        Currently automating AI lifecycle gates at <b>Nordex Group</b> and researching security threats within the Model Context Protocol (MCP) at <b>TU Hamburg</b>.
-      </p>
-      <p>
-        <b>Core Objective:</b> Guaranteeing that enterprise agentic systems remain secure, deterministic, and fully compliant under global legal frameworks.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkODZwdG5zMHQ3NHM2ejVxb3lzZ3NnZ3N5ZmtxN3p4OWR6cXJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2xCHtibMC7II/giphy.gif" width="180" />
-    </td>
-  </tr>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="65%" valign="top">
+<h3>🛡️ Bridging Policy & Production Code</h3>
+<p>I operate where regulatory requirements and hands-on system architecture converge. While policy analysts write compliance papers and engineers code black boxes, I write <b>Compliance-as-Code</b>—translating the <b>EU AI Act, GDPR, and NIST AI RMF</b> into automated CI/CD security gates and audited RAG safeguards.</p>
+<p>Currently automating AI lifecycle gates at <b>Nordex Group</b> and researching security threats within the Model Context Protocol (MCP) at <b>TU Hamburg</b>.</p>
+<p><b>Core Objective:</b> Guaranteeing that enterprise agentic systems remain secure, deterministic, and fully compliant under global legal frameworks.</p>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src=".github/assets/intersection.svg" width="180" alt="Policy & Code Intersection" />
+</td>
+</tr>
 </table>
 
 <details open>
@@ -148,62 +141,59 @@ graph TD
 *Aug 2025 – Present | Hamburg, Germany*
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tr style="background-color: #0d1117;">
-    <!-- Card 1: AI Security -->
-    <td width="25%" align="left" valign="top" style="border: 2px solid #1904DA; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHASE_1-AI_SECURITY-1904DA?style=for-the-badge" alt="Security Phase" />
-      </div>
-      <br />
-      <b>🔐 SAST & SCA Integration</b>
-      <ul>
-        <li>Audited 9 DevSecOps vulnerability suites</li>
-        <li>Coded custom blocking CI/CD security gates</li>
-        <li>Modeled vectors in OWASP Threat Dragon</li>
-      </ul>
-    </td>
-    
-    <!-- Card 2: AI Governance -->
-    <td width="25%" align="left" valign="top" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHASE_2-AI_GOVERNANCE-8b5cf6?style=for-the-badge" alt="Governance Phase" />
-      </div>
-      <br />
-      <b>📋 Policy & GRC Mapping</b>
-      <ul>
-        <li>Designed the corporate Gate 0-5 workflow</li>
-        <li>Mapped pipeline risks to EU AI Act Annex III</li>
-        <li>Created automated GDPR DPIA checklists</li>
-      </ul>
-    </td>
-    
-    <!-- Card 3: Agent Deployment -->
-    <td width="25%" align="left" valign="top" style="border: 2px solid #0089D6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHASE_3-AGENT_DEPLOY-0089D6?style=for-the-badge" alt="Agent Phase" />
-      </div>
-      <br />
-      <b>🤖 Enterprise RAG Systems</b>
-      <ul>
-        <li>Built Azure AI Foundry integrations</li>
-        <li>Engineered MCP custom function tools</li>
-        <li>Designed 29-scenario LLM-as-a-judge suite</li>
-      </ul>
-    </td>
-    
-    <!-- Card 4: Product Delivery -->
-    <td width="25%" align="left" valign="top" style="border: 2px solid #107c10; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHASE_4-DELIVERY-107c10?style=for-the-badge" alt="Delivery Phase" />
-      </div>
-      <br />
-      <b>🚀 Product Engineering PO</b>
-      <ul>
-        <li>Led delivery across 6 engineering teams</li>
-        <li>Unblocked and integrated enterprise AI tools</li>
-      </ul>
-    </td>
-  </tr>
+<tr style="background-color: #0d1117;">
+<!-- Card 1: AI Security -->
+<td width="25%" align="left" valign="top" style="border: 2px solid #1904DA; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+<div align="center">
+<img src="https://img.shields.io/badge/PHASE_1-AI_SECURITY-1904DA?style=for-the-badge" alt="Security Phase" />
+</div>
+<br />
+<b>🔐 SAST & SCA Integration</b>
+<ul>
+<li>Audited 9 DevSecOps vulnerability suites</li>
+<li>Coded custom blocking CI/CD security gates</li>
+<li>Modeled vectors in OWASP Threat Dragon</li>
+</ul>
+</td>
+<!-- Card 2: AI Governance -->
+<td width="25%" align="left" valign="top" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+<div align="center">
+<img src="https://img.shields.io/badge/PHASE_2-AI_GOVERNANCE-8b5cf6?style=for-the-badge" alt="Governance Phase" />
+</div>
+<br />
+<b>📋 Policy & GRC Mapping</b>
+<ul>
+<li>Designed the corporate Gate 0-5 workflow</li>
+<li>Mapped pipeline risks to EU AI Act Annex III</li>
+<li>Created automated GDPR DPIA checklists</li>
+</ul>
+</td>
+<!-- Card 3: Agent Deployment -->
+<td width="25%" align="left" valign="top" style="border: 2px solid #0089D6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+<div align="center">
+<img src="https://img.shields.io/badge/PHASE_3-AGENT_DEPLOY-0089D6?style=for-the-badge" alt="Agent Phase" />
+</div>
+<br />
+<b>🤖 Enterprise RAG Systems</b>
+<ul>
+<li>Built Azure AI Foundry integrations</li>
+<li>Engineered MCP custom function tools</li>
+<li>Designed 29-scenario LLM-as-a-judge suite</li>
+</ul>
+</td>
+<!-- Card 4: Product Delivery -->
+<td width="25%" align="left" valign="top" style="border: 2px solid #107c10; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+<div align="center">
+<img src="https://img.shields.io/badge/PHASE_4-DELIVERY-107c10?style=for-the-badge" alt="Delivery Phase" />
+</div>
+<br />
+<b>🚀 Product Engineering PO</b>
+<ul>
+<li>Led delivery across 6 engineering teams</li>
+<li>Unblocked and integrated enterprise AI tools</li>
+</ul>
+</td>
+</tr>
 </table>
 
 * **🔐 AI Security Posture**
