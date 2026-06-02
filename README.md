@@ -19,7 +19,7 @@
 
 <!-- Live Indicators -->
 <p align="center">
-  <img src="https://komarev.com/normalise-github-svg/?username=shahriyar31&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/Shahriyar31.svg?style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/System_Status-Auditing_RAG_Systems-green?style=flat-square" alt="Status"/>
   &nbsp;&nbsp;
@@ -30,17 +30,9 @@
 
 ---
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  FS-OS v1.0.0 - SYSTEM CONSOLE                                        │
-├────────────────────────────────────────────────────────────────────────┤
-│  » Identity : Farhan Shahriyar                                         │
-│  » Origin   : TU Hamburg · MSc Data Science                            │
-│  » Activity : Werkstudent @ Nordex Group (AI Security & Governance)   │
-│  » Focal Pt : AI Governance (EU AI Act, GDPR) ∩ AI Engineering (RAG)   │
-│  » Mission  : Securing agentic systems through DevSecOps pipelines      │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src=".github/assets/identity.svg" width="100%" alt="AI Governance & DevSecOps Console" />
+</div>
 
 <!-- Side-by-Side Intro -->
 <table border="0">
@@ -80,14 +72,7 @@
 
 ---
 
-## 🖥️ System Diagnostics & Competencies
 
-```text
-AI-GOVERNANCE   [████████████████████] 100% - STABLE (EU AI Act, GDPR Art. 35)
-DEVSECOPS       [████████████████░░░░]  80% - ACTIVE (SCA, SAST, Trivy Gates)
-AGENTIC-AI      [██████████████████░░]  90% - EVAL   (LangGraph, MCP, RAG)
-DATA-PIPELINES  [████████████░░░░░░░░]  60% - ONLINE (Kafka, Flink, InfluxDB)
-```
 
 ---
 

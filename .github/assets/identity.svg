@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <!-- Background Grid Pattern -->
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#1e293b" stroke-width="0.5" opacity="0.4" />
+    </pattern>
+
+    <!-- Animated Glowing Border Gradient -->
+    <linearGradient id="animated-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d6ef5">
+        <animate attributeName="stop-color" values="#1d6ef5;#ec4899;#8b5cf6;#1d6ef5" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#1d6ef5;#ec4899;#8b5cf6" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Progress Bar Gradients -->
+    <linearGradient id="grad-gov" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1d6ef5" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <linearGradient id="grad-dev" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+    <linearGradient id="grad-rag" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0089D6" />
+      <stop offset="100%" stop-color="#107c10" />
+    </linearGradient>
+    <linearGradient id="grad-data" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d83b01" />
+    </linearGradient>
+
+    <!-- Glowing Effect Filter -->
+    <filter id="glow-filter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Dark Dashboard Console Background -->
+  <rect x="2" y="2" width="796" height="396" rx="16" fill="#0b0f19" />
+  <rect x="2" y="2" width="796" height="396" rx="16" fill="url(#grid)" />
+
+  <!-- Animated Glowing Outer Border -->
+  <rect x="2" y="2" width="796" height="396" rx="16" fill="none" stroke="url(#animated-glow)" stroke-width="3" filter="url(#glow-filter)" opacity="0.8" />
+
+  <!-- Terminal Title Bar -->
+  <circle cx="30" cy="28" r="6" fill="#ff5f56" />
+  <circle cx="50" cy="28" r="6" fill="#ffbd2e" />
+  <circle cx="70" cy="28" r="6" fill="#27c93f" />
+  
+  <text x="400" y="33" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" letter-spacing="1.5">
+    FS-OS v2.0.0 // SECURE IDENTITY CONSOLE
+  </text>
+  
+  <!-- Divider -->
+  <line x1="15" y1="50" x2="785" y2="50" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- COLUMN 1: Profile Matrix (Left) -->
+  <g transform="translate(35, 75)">
+    <!-- Identity Field -->
+    <text x="0" y="15" fill="#8b5cf6" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" letter-spacing="1">👤 IDENTITY</text>
+    <text x="0" y="38" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">Farhan Shahriyar</text>
+
+    <!-- Academic Base -->
+    <text x="0" y="75" fill="#1d6ef5" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" letter-spacing="1">🎓 ACADEMIC BASE</text>
+    <text x="0" y="98" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="14" font-weight="500">TU Hamburg · MSc Data Science</text>
+
+    <!-- Industry Role -->
+    <text x="0" y="135" fill="#107c10" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" letter-spacing="1">🏭 INDUSTRY PROFILE</text>
+    <text x="0" y="158" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="14" font-weight="500">Werkstudent AI Security @ Nordex Group</text>
+
+    <!-- Focal Point -->
+    <text x="0" y="195" fill="#ec4899" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" letter-spacing="1">🛡️ DOMAIN INTERSECTION</text>
+    <text x="0" y="218" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="14" font-weight="500">AI Governance (EU AI Act, GDPR) ∩ RAG</text>
+
+    <!-- Mission Vector -->
+    <text x="0" y="255" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" letter-spacing="1">⚡ MISSION VECTOR</text>
+    <text x="0" y="278" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="14" font-weight="500">Hardening agentic environments via CI/CD gates</text>
+  </g>
+
+  <!-- Vertical Inner Divider -->
+  <line x1="450" y1="75" x2="450" y2="365" stroke="#1e293b" stroke-width="1.5" stroke-dasharray="4,4" />
+
+  <!-- COLUMN 2: Diagnostics & Competencies (Right) -->
+  <g transform="translate(485, 75)">
+    <text x="0" y="15" fill="#1d6ef5" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" letter-spacing="1.5">📈 SYSTEM DIAGNOSTICS</text>
+
+    <!-- Progress Bar 1: AI Governance -->
+    <g transform="translate(0, 45)">
+      <text x="0" y="12" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">AI Governance (EU AI Act)</text>
+      <text x="270" y="12" fill="#8b5cf6" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" text-anchor="end">100%</text>
+      <!-- Track -->
+      <rect x="0" y="22" width="270" height="12" rx="6" fill="#1e293b" />
+      <!-- Animated Active Bar -->
+      <rect x="0" y="22" height="12" rx="6" fill="url(#grad-gov)">
+        <animate attributeName="width" from="0" to="270" dur="1.8s" fill="freeze" keyTimes="0;1" keySplines="0.4, 0, 0.2, 1" calcMode="spline" />
+      </rect>
+    </g>
+
+    <!-- Progress Bar 2: DevSecOps Pipelines -->
+    <g transform="translate(0, 115)">
+      <text x="0" y="12" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">DevSecOps (SCA, SAST)</text>
+      <text x="270" y="12" fill="#ec4899" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" text-anchor="end">80%</text>
+      <!-- Track -->
+      <rect x="0" y="22" width="270" height="12" rx="6" fill="#1e293b" />
+      <!-- Animated Active Bar -->
+      <rect x="0" y="22" height="12" rx="6" fill="url(#grad-dev)">
+        <animate attributeName="width" from="0" to="216" dur="1.8s" fill="freeze" keyTimes="0;1" keySplines="0.4, 0, 0.2, 1" calcMode="spline" />
+      </rect>
+    </g>
+
+    <!-- Progress Bar 3: Agentic AI & RAG -->
+    <g transform="translate(0, 185)">
+      <text x="0" y="12" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Agentic AI &amp; RAG Safeguards</text>
+      <text x="270" y="12" fill="#107c10" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" text-anchor="end">90%</text>
+      <!-- Track -->
+      <rect x="0" y="22" width="270" height="12" rx="6" fill="#1e293b" />
+      <!-- Animated Active Bar -->
+      <rect x="0" y="22" height="12" rx="6" fill="url(#grad-rag)">
+        <animate attributeName="width" from="0" to="243" dur="1.8s" fill="freeze" keyTimes="0;1" keySplines="0.4, 0, 0.2, 1" calcMode="spline" />
+      </rect>
+    </g>
+
+    <!-- Progress Bar 4: Data Pipelines -->
+    <g transform="translate(0, 255)">
+      <text x="0" y="12" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Data Streaming (Kafka, Flink)</text>
+      <text x="270" y="12" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" text-anchor="end">60%</text>
+      <!-- Track -->
+      <rect x="0" y="22" width="270" height="12" rx="6" fill="#1e293b" />
+      <!-- Animated Active Bar -->
+      <rect x="0" y="22" height="12" rx="6" fill="url(#grad-data)">
+        <animate attributeName="width" from="0" to="162" dur="1.8s" fill="freeze" keyTimes="0;1" keySplines="0.4, 0, 0.2, 1" calcMode="spline" />
+      </rect>
+    </g>
+  </g>
+</svg>
