@@ -240,10 +240,13 @@ def main(issue, issue_author, repo_owner):
             game = chess.pgn.read_game(pgn_file)
             gameboard = game.board()
 
+        last_player = ""
+        last_move = ""
         with open('data/last_moves.txt') as moves:
-            line = moves.readline()
-            last_player = line.split(':')[1].strip()
-            last_move   = line.split(':')[0].strip()
+            line = moves.readline().strip()
+            if line and ":" in line:
+                last_player = line.split(':')[1].strip()
+                last_move   = line.split(':')[0].strip()
 
         for move in game.mainline_moves():
             gameboard.push(move)
