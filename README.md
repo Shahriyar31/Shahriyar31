@@ -34,6 +34,10 @@
   <img src=".github/assets/identity.svg" width="100%" alt="AI Governance & DevSecOps Console" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
+
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="65%" valign="top">
@@ -62,18 +66,21 @@
   *   **Corporate Impact:** Nordex Group — Creating the corporate AI repository, writing the Gate 0-5 governance workflows, and running automated container CVE scans.
   *   **Specializations:** GDPR Article 35 (DPIAs), EU AI Act Annex III classifications, OWASP LLM Top 10 auditing, and Model Context Protocol (MCP) threat modeling.
 </details>
-
----
-
-
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## 🔬 Research Spotlight
 
-> [!IMPORTANT]
-> **Mapping OWASP LLM Top 10 to EU AI Act Requirements: A Security Governance Framework for Enterprise RAG Systems**  
-> *Preprint, TU Hamburg, April 2026*
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td style="border-left: 5px solid #8b5cf6; background-color: #0d1117; padding: 15px; border-radius: 4px;">
+<b>📄 RESEARCH PREPRINT (TU HAMBURG)</b><br/>
+<h4 style="margin: 5px 0; color: #1d6ef5;">Mapping OWASP LLM Top 10 to EU AI Act Requirements: A Security Governance Framework for Enterprise RAG Systems</h4>
+<i>Published April 2026 · Otology &amp; AI Security Lab</i>
+</td>
+</tr>
+</table>
 
 | Findings & Contribution | Description |
 | :--- | :--- |
@@ -81,7 +88,9 @@
 | **🔐 MCP Vulnerability** | Documented how the *confused deputy problem* in Model Context Protocol (MCP) tool bindings triggers data privacy breaches under GDPR Article 4(12). |
 | **📋 Governance Matrix** | Designed a direct regulatory mapping translating every OWASP LLM risk into specific EU AI Act compliance controls. |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## 🛡️ Featured Platform: Argus AI
 ### *The Automated EU AI Act & GDPR Auditing System*
@@ -134,7 +143,9 @@ graph TD
 * **Regulatory Knowledge Base:** Standardized hybrid vector search on a `pgvector` store indexing **665+ regulatory database chunks**, querying Groq Llama-3.3-70b.
 * **DevSecOps Gateways:** Integrates SCA, SAST, and Trivy scans inside the CI/CD pipeline, blocking builds on critical findings (**114+ successful builds**).
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## 🏭 Professional Experience
 ### **Nordex Group** — *AI Security & Governance Werkstudent*
@@ -208,8 +219,9 @@ graph TD
   * Built an **LLM-as-a-judge suite** using 29 golden dataset questions to evaluate OpenAI models on quality, cost, and speed.
 * **🗂️ Project Leadership**
   * Drove a stalled enterprise AI integration across **6 cross-functional teams** to final production deployment.
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## 🔬 Engineering Portfolio
 
@@ -219,8 +231,9 @@ graph TD
 | 📊 | **StockFlow** | End-to-end real-time financial stream ingestion pipeline. | `Kafka` `AWS (S3, Glue, Athena)` `Python` | [View Code 🔗](https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka) |
 | 🐔 | **Poultry Shield** | VGG16 classifier with 97.51% accuracy and versioned DVC data pipeline. | `TensorFlow` `Flask` `DVC` `EC2` | [View Code 🔗](https://github.com/Shahriyar31/Poultry_Shield-Deep-Learning-for-Poultry-Coccidiosis-Diagnosis) |
 | ☢️ | **Radiation Tracker** | Containerized real-time environmental radiation sensor stream processing. | `Kafka` `Flink` `GCP` `Docker` | [View Code 🔗](https://github.com/Shahriyar31/Radiaton_Tracking) |
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## 🛠️ Technical Arsenal
 
@@ -280,8 +293,9 @@ graph TD
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
 </p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## 📈 GitHub Analytics
 
@@ -296,12 +310,6 @@ graph TD
       <td align="center" valign="top">
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shahriyar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&text_color=c9d1d9&langs_count=8" height="185" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph/?username=shahriyar31&bg_color=0d1117&color=1d6ef5&line=8b5cf6&point=ffffff&hide_border=true" width="100%" />
-      </td>
-    </tr>
     <tr>
       <td align="center" valign="top" colspan="2">
         <img src="https://streak-stats.demolab.com/?user=shahriyar31&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6ef5&fire=8b5cf6&currStreakLabel=1d6ef5&sideLabels=c9d1d9&dates=8b949e" height="175" />
@@ -314,13 +322,6 @@ graph TD
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriyar31&theme=tokyonight" width="100%" />
 </div>
 
----
-
-## 🐍 Interactive Contributions (Snake Game)
-
-> [!TIP]
-> The snake game below runs on a scheduled GitHub Action that crawls my contribution grid daily. If the animation is loading or broken, make sure the workflow run has executed!
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahriyar31/Shahriyar31/output/github-contribution-grid-snake-dark.svg" />
@@ -329,19 +330,9 @@ graph TD
   </picture>
 </div>
 
-<details>
-<summary><b>🛠️ How to activate the Snake Game workflow in your GitHub profile</b></summary>
-<br>
-
-To make the snake game load, follow these quick steps after pushing the code to GitHub:
-1. Go to your repository settings on GitHub (**Settings** > **Actions** > **General**).
-2. Under **Workflow permissions**, choose **Read and write permissions**, and click **Save**.
-3. Go to the **Actions** tab in your repository.
-4. Click on **Generate Snake Animation** in the left sidebar, click the **Run workflow** dropdown, and click **Run workflow**.
-5. Once complete, it will create the `output` branch and publish the SVGs, making the snake appear above!
-</details>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 ## ⚡ System Operation Logs (Recent Activity)
 
@@ -355,16 +346,9 @@ $ cat ~/.logs/activity.log
 3. 📦 Updated dependencies for pip-audit check validation in CI/CD pipeline
 <!--END_SECTION:activity-->
 
-<details>
-<summary><b>🛠️ How to activate the Dynamic Activity Feed workflow</b></summary>
-<br>
-
-To make the activity feed update automatically:
-1. Ensure the write permissions for actions are enabled (same as the snake game setup).
-2. The action is configured to run every 30 minutes, but you can trigger it manually under the **Actions** tab by selecting **Update README Activity** and clicking **Run workflow**.
-</details>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
 
 <!-- Wavy Footer Banner -->
 <div align="center">
