@@ -1,207 +1,344 @@
 <div align="center">
 
+<!-- Wavy Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=200&section=header&text=Farhan%20Shahriyar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Governance%20%C2%B7%20DevSecOps%20%C2%B7%20MSc%20Data%20Science%20%C2%B7%20Hamburg&descAlignY=58&descSize=18&descColor=c7d2fe" />
 
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=1d6ef5&center=true&vCenter=true&width=720&lines=EU+AI+Act+%7C+GDPR+%7C+NIST+AI+RMF+%7C+ISO+42001;LangGraph+%7C+FastAPI+%7C+pgvector+%7C+Azure+AI+Foundry;DevSecOps+%7C+SAST+%7C+SCA+%7C+SBOM+%7C+Trivy;MCP+%7C+LLM-as-Judge+%7C+RAG+%7C+Agentic+AI)](https://git.io/typing-svg)
+
+<!-- Navigation Bar -->
+<p align="center">
+  <a href="https://farhanshahriyar.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-farhanshahriyar.vercel.app-1d6ef5?style=for-the-badge&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/farhanshahriyar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:shahriyarfarhan3101@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shahriyar31"><img src="https://img.shields.io/github/followers/shahriyar31?label=Follow&style=for-the-badge&logo=github&color=24292e"/></a>
+</p>
+
+<!-- Live Indicators -->
+<p align="center">
+  <img src="https://komarev.com/normalise-github-svg/?username=shahriyar31&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/System_Status-Auditing_RAG_Systems-green?style=flat-square" alt="Status"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Hamburg,_Germany-1d6ef5?style=flat-square" alt="Location"/>
+</p>
+
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=1d6ef5&center=true&vCenter=true&width=700&lines=EU+AI+Act+%7C+GDPR+%7C+NIST+AI+RMF;LangGraph+%7C+FastAPI+%7C+pgvector+%7C+Azure;DevSecOps+%7C+SAST+%7C+SCA+%7C+Container+Security;Kafka+%7C+Flink+%7C+GCP+%7C+AWS+%7C+Docker)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
-## Who I am
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  FS-OS v1.0.0 - SYSTEM CONSOLE                                        │
+├────────────────────────────────────────────────────────────────────────┤
+│  » Identity : Farhan Shahriyar                                         │
+│  » Origin   : TU Hamburg · MSc Data Science                            │
+│  » Activity : Werkstudent @ Nordex Group (AI Security & Governance)   │
+│  » Focal Pt : AI Governance (EU AI Act, GDPR) ∩ AI Engineering (RAG)   │
+│  » Mission  : Securing agentic systems through DevSecOps pipelines      │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-MSc Data Science student at **TU Hamburg** and Werkstudent at **Nordex Group**. I build at the intersection of AI systems and the regulatory frameworks that govern them — reading EU AI Act articles in the morning, writing LangGraph agents in the afternoon.
-
-My portfolio: **[farhanshahriyar.vercel.app](https://shahriyar31.github.io/Farhan-Shahriyar.github.io/)**
-
----
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ Argus AI — EU AI Act Governance Platform**
-
-Automated compliance platform covering EU AI Act risk classification, GDPR DPIA generation, OWASP LLM Top 10 assessment, and NIST AI RMF mapping.
-
-- LangGraph agent with human-in-the-loop interrupt
-- 665+ regulatory chunks in pgvector RAG (Groq Llama-3.3-70b)
-- Azure Container Apps · Stripe billing · Multi-tenant
-- DevSecOps pipeline: SAST → SCA → Trivy → ACR · 114+ CI runs
-- JWT refresh tokens · Prometheus · Grafana · Sentry
-
-[**Landing**](https://eu-ai-act-governance-platform.vercel.app) · [**Platform**](https://eu-ai-governance.salmonocean-15ddaf55.germanywestcentral.azurecontainerapps.io) · [**Code**](https://github.com/Shahriyar31/eu-ai-act-governance-platform)
-
-</td>
-<td width="50%" valign="top">
-
-**🔬 Digital Twin Dashboard — TUHH Research**
-
-Real-time anomaly detection and forecasting dashboard for a digital twin simulation. Full CI/CD pipeline with GitHub Actions and Docker.
-
-`Python` `Dash` `Plotly` `Scikit-learn` `Docker` `GitHub Actions`
-
-[**Code**](https://github.com/rkraeuter/DigitalTwinGF3)
-
----
-
-**☢️ Radiation Tracker**
-
-Real-time radiation sensor streaming platform on GCP using Apache Kafka and Apache Flink. Fully containerised with Docker Compose.
-
-`Kafka` `Flink` `GCP` `Docker` `Node.js`
-
-[**Code**](https://github.com/Shahriyar31/Radiaton_Tracking)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📈 StockFlow — Real-Time Data Pipeline**
-
-End-to-end real-time stock market pipeline. Kafka producer streams live data, consumer writes to S3, AWS Glue crawls, Athena queries.
-
-`Apache Kafka` `AWS S3` `AWS Glue` `Amazon Athena` `Python` `EC2`
-
-[**Code**](https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka)
-
-</td>
-<td width="50%" valign="top">
-
-**🐔 Poultry Shield — AI Veterinary Diagnostics**
-
-CNN achieving **97.51% accuracy** on Coccidiosis detection in poultry. VGG16 fine-tuned from scratch with no domain knowledge. DVC pipeline, Flask API deployed on AWS EC2.
-
-`TensorFlow` `VGG16` `Flask` `OpenCV` `AWS EC2` `DVC`
-
-[**Code**](https://github.com/Shahriyar31/Poultry_Shield-Deep-Learning-for-Poultry-Coccidiosis-Diagnosis)
-
-</td>
-</tr>
+<!-- Side-by-Side Intro -->
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🛡️ Bridging Policy & Production Code</h3>
+      <p>
+        I operate where regulatory requirements and hands-on system architecture converge. While policy analysts write compliance papers and engineers code black boxes, I write <b>Compliance-as-Code</b>—translating the <b>EU AI Act, GDPR, and NIST AI RMF</b> into automated CI/CD security gates and audited RAG safeguards.
+      </p>
+      <p>
+        Currently automating AI lifecycle gates at <b>Nordex Group</b> and researching security threats within the Model Context Protocol (MCP) at <b>TU Hamburg</b>.
+      </p>
+      <p>
+        <b>Core Objective:</b> Guaranteeing that enterprise agentic systems remain secure, deterministic, and fully compliant under global legal frameworks.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkODZwdG5zMHQ3NHM2ejVxb3lzZ3NnZ3N5ZmtxN3p4OWR6cXJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2xCHtibMC7II/giphy.gif" width="180" />
+    </td>
+  </tr>
 </table>
 
----
-
-## Research
-
-Currently writing a paper at **TU Hamburg** on mapping the OWASP LLM Top 10 to EU AI Act requirements — a systematic control-by-control analysis covering all ten LLM risks against specific Act articles, with GDPR and ISO 27001 alignment. The work introduces a three-layer governance architecture for enterprise RAG systems and analyses novel legal-technical intersections including the confused deputy problem as a personal data breach under GDPR Art. 4(12), and the governance tension between AI Act Art. 14 (human oversight) and GDPR Art. 22 (automated decision-making).
-
----
-
-## Tech Stack
-
-**AI & LLM Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**DevSecOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Security Scanning**
-
-![Bandit](https://img.shields.io/badge/Bandit-SAST-d83b01?style=flat-square)
-![Semgrep](https://img.shields.io/badge/Semgrep-Pattern_Analysis-1d6ef5?style=flat-square)
-![pip-audit](https://img.shields.io/badge/pip--audit-SCA-107c10?style=flat-square)
-![Syft](https://img.shields.io/badge/Syft-SBOM-8b5cf6?style=flat-square)
-![Grype](https://img.shields.io/badge/Grype-CVE_Scan-f59e0b?style=flat-square)
-![Trivy](https://img.shields.io/badge/Trivy-Container_Scan-1904DA?style=flat-square)
-
-**Data Engineering**
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Frontend & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<details open>
+  <summary>🎓 <b>Affiliations & Focus Areas</b></summary>
+  <br>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/TU_Hamburg-MSc_Data_Science-003399?style=for-the-badge&logo=education&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nordex_Group-AI_Security_Werkstudent-8b5cf6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TU_Hamburg-Preprint_Author_2026-1d6ef5?style=for-the-badge" />
+  </p>
+  
+  *   **Academic Base:** Hamburg University of Technology (TU Hamburg) — MSc Data Science. High-dimensional data analytics, OT security, and AI system modeling.
+  *   **Corporate Impact:** Nordex Group — Creating the corporate AI repository, writing the Gate 0-5 governance workflows, and running automated container CVE scans.
+  *   **Specializations:** GDPR Article 35 (DPIAs), EU AI Act Annex III classifications, OWASP LLM Top 10 auditing, and Model Context Protocol (MCP) threat modeling.
+</details>
 
 ---
 
-## GitHub Activity
+## 🖥️ System Diagnostics & Competencies
+
+```text
+AI-GOVERNANCE   [████████████████████] 100% - STABLE (EU AI Act, GDPR Art. 35)
+DEVSECOPS       [████████████████░░░░]  80% - ACTIVE (SCA, SAST, Trivy Gates)
+AGENTIC-AI      [██████████████████░░]  90% - EVAL   (LangGraph, MCP, RAG)
+DATA-PIPELINES  [████████████░░░░░░░░]  60% - ONLINE (Kafka, Flink, InfluxDB)
+```
+
+---
+
+## 🔬 Research Spotlight
+
+> [!IMPORTANT]
+> **Mapping OWASP LLM Top 10 to EU AI Act Requirements: A Security Governance Framework for Enterprise RAG Systems**  
+> *Preprint, TU Hamburg, April 2026*
+
+| Findings & Contribution | Description |
+| :--- | :--- |
+| **🔗 Legal Friction** | Examined how EU AI Act Article 14 (Human Oversight) collides with GDPR Article 22 (Automated individual decision-making) when RAG tools support enterprise decisions. |
+| **🔐 MCP Vulnerability** | Documented how the *confused deputy problem* in Model Context Protocol (MCP) tool bindings triggers data privacy breaches under GDPR Article 4(12). |
+| **📋 Governance Matrix** | Designed a direct regulatory mapping translating every OWASP LLM risk into specific EU AI Act compliance controls. |
+
+---
+
+## 🛡️ Featured Platform: Argus AI
+### *The Automated EU AI Act & GDPR Auditing System*
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1d6ef5" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&text_color=c9d1d9&langs_count=8" height="170" />
-
+  <a href="https://eu-ai-act-governance-platform.vercel.app"><img src="https://img.shields.io/badge/🌍_Landing_Page-Visit-1d6ef5?style=for-the-badge&logo=web&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://eu-ai-governance.salmonocean-15ddaf55.germanywestcentral.azurecontainerapps.io"><img src="https://img.shields.io/badge/🚀_Live_on_Azure-Open_App-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shahriyar31/eu-ai-act-governance-platform"><img src="https://img.shields.io/badge/📦_Source_Code-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
+```
+  USER
+   │
+   ▼
+┌──────────────────────────────────────────────────────────┐
+│  LangGraph Agent                                         │
+│  ├── classify       EU AI Act risk tier                  │
+│  ├── router         HIGH / LIMITED / MINIMAL             │
+│  ├── dpia           GDPR Art. 35 generation              │
+│  ├── owasp          LLM Top 10 assessment                │
+│  ├── human_review   interrupt — wait for approval ✋     │
+│  └── summary        PDF compliance report                │
+└──────────────────────────────────────────────────────────┘
+   │
+   ▼
+pgvector RAG  ──►  665+ regulatory chunks  ──►  Groq Llama-3.3-70b
+   │
+   ▼
+┌─────────────────────────────────────────────────────────┐
+│  Infrastructure                                         │
+│  ├── Azure Container Apps · Terraform IaC               │
+│  ├── Multi-tenant · JWT refresh · Stripe billing        │
+│  ├── Prometheus · Grafana · Sentry · Cloudflare Gateway │
+│  └── SAST → SCA → Trivy → ACR  ·  114+ CI/CD runs      │
+└─────────────────────────────────────────────────────────┘
+```
+
+#### 🛠️ Deep Tech Architecture
+* **Intelligent LangGraph Router:** Automates risk classification under the EU AI Act (High, Limited, Minimal) and dynamically routes workflows.
+* **Compliance Automation:** Autogenerates GDPR Article 35 Data Protection Impact Assessments (DPIAs) and runs OWASP LLM Top 10 vulnerability checks.
+* **Regulatory Knowledge Base:** Standardized hybrid vector search on a `pgvector` store indexing **665+ regulatory database chunks**, querying Groq Llama-3.3-70b.
+* **DevSecOps Gateways:** Integrates SCA, SAST, and Trivy scans inside the CI/CD pipeline, blocking builds on critical findings (**114+ successful builds**).
+
+---
+
+## 🏭 Professional Experience
+### **Nordex Group** — *AI Security & Governance Werkstudent*
+*Aug 2025 – Present | Hamburg, Germany*
+
+```
+┌─────────────────┐     ┌───────────────────┐     ┌─────────────────┐     ┌──────────────────┐
+│   AI SECURITY   │ ──> │   AI GOVERNANCE   │ ──> │   AGENT DEPLOY  │ ──> │ PRODUCT DELIVERY │
+│ SAST/SCA Gates  │     │ Gate 0-5 Policy   │     │ MCP & Foundry   │     │  Cross-Teams PO  │
+└─────────────────┘     └───────────────────┘     └─────────────────┘     └──────────────────┘
+```
+
+* **🔐 AI Security Posture**
+  * Evaluated **9 DevSecOps tools** on active production images; identified hidden CVEs, Dockerfile issues, and secrets.
+  * Coded the **CI/CD security gate** that blocks deployment promotions on Critical CVE detections.
+  * Performed architectural threat modeling utilizing **OWASP Threat Dragon**.
+* **📋 AI Lifecycle Policy**
+  * Designed and standard-set the corporate **6-phase AI Lifecycle Framework (Gate 0–5)** with RACI matrices.
+  * Mapped and aligned internal pipelines to **GDPR, EU AI Act Annex III**, and **NIST AI RMF 1.0**.
+* **🤖 Production AI Agent**
+  * Developed a corporate RAG agent on **Azure AI Foundry** with hybrid vector search and custom **MCP function tools**.
+  * Built an **LLM-as-a-judge suite** using 29 golden dataset questions to evaluate OpenAI models on quality, cost, and speed.
+* **🗂️ Project Leadership**
+  * Drove a stalled enterprise AI integration across **6 cross-functional teams** to final production deployment.
+
+---
+
+## 🔬 Engineering Portfolio
+
+| Status | Project Name | One-Line Narrative | Technology Stack | Action |
+| :---: | :--- | :--- | :--- | :---: |
+| ⚡ | **Digital Twin Dashboard** | Real-time industrial telemetry. Shrank container image size from 900MB to 150MB. | `Kafka` `Flink` `InfluxDB` `Dash` | [View Code 🔗](https://github.com/rkraeuter/DigitalTwinGF3) |
+| 📊 | **StockFlow** | End-to-end real-time financial stream ingestion pipeline. | `Kafka` `AWS (S3, Glue, Athena)` `Python` | [View Code 🔗](https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka) |
+| 🐔 | **Poultry Shield** | VGG16 classifier with 97.51% accuracy and versioned DVC data pipeline. | `TensorFlow` `Flask` `DVC` `EC2` | [View Code 🔗](https://github.com/Shahriyar31/Poultry_Shield-Deep-Learning-for-Poultry-Coccidiosis-Diagnosis) |
+| ☢️ | **Radiation Tracker** | Containerized real-time environmental radiation sensor stream processing. | `Kafka` `Flink` `GCP` `Docker` | [View Code 🔗](https://github.com/Shahriyar31/Radiaton_Tracking) |
+
+---
+
+## 🛠️ Technical Arsenal
+
+### ⚖️ AI Governance & Compliance
+<p align="left">
+  <img src="https://img.shields.io/badge/EU_AI_Act-2024%2F1689-003399?style=flat-square&logo=europeanunion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDPR-Art.35_DPIA-003399?style=flat-square&logo=europeanunion&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST_AI_RMF-1.0-1d6ef5?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISO_42001-AI_Mgmt-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP_LLM-Top_10-d83b01?style=flat-square" />
+  <img src="https://img.shields.io/badge/IEC_62443-OT_Security-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/NIS2-Directive-8b5cf6?style=flat-square" />
+</p>
+
+### 🤖 AI, LLM & Agentic Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Protocol-1d6ef5?style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
+### ⚙️ DevSecOps, Cloud & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+### 🔍 Security Scanning & SCA
+<p align="left">
+  <img src="https://img.shields.io/badge/Trivy-Container_Scan-1904DA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Semgrep-SAST-1d6ef5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bandit-SAST-d83b01?style=flat-square" />
+  <img src="https://img.shields.io/badge/pip--audit-SCA-107c10?style=flat-square" />
+  <img src="https://img.shields.io/badge/Syft_/_Grype-SBOM-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/CycloneDX-SBOM_Format-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP_Threat_Dragon-Threat_Modelling-d83b01?style=flat-square" />
+</p>
+
+### 📊 Data pipelines & Monitoring
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shahriyar31&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6ef5&fire=8b5cf6&currStreakLabel=1d6ef5&sideLabels=c9d1d9&dates=8b949e&stroke=1d6ef5" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriyar31&theme=tokyonight" width="100%" />
-
+  <h3>📊 GitHub Infographics</h3>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=shahriyar31&column=7&theme=tokyonight&no-background=true" width="100%" alt="Github Trophies" />
+  
+  <br/><br/>
+  
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=shahriyar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1d6ef5" height="185" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shahriyar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&text_color=c9d1d9&langs_count=8" height="185" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph/?username=shahriyar31&bg_color=0d1117&color=1d6ef5&line=8b5cf6&point=ffffff&hide_border=true" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <img src="https://streak-stats.demolab.com/?user=shahriyar31&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6ef5&fire=8b5cf6&currStreakLabel=1d6ef5&sideLabels=c9d1d9&dates=8b949e" height="175" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriyar31&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
-## Contributions
+## 🐍 Interactive Contributions (Snake Game)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahriyar31/shahriyar31/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahriyar31/shahriyar31/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shahriyar31/shahriyar31/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
----
-
-## Connect
+> [!TIP]
+> The snake game below runs on a scheduled GitHub Action that crawls my contribution grid daily. If the animation is loading or broken, make sure the workflow run has executed!
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Shahriyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanshahriyar)
-[![Email](https://img.shields.io/badge/Email-shahriyarfarhan3101@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarfarhan3101@gmail.com)
-[![Argus AI](https://img.shields.io/badge/Argus_AI-Live_Platform-1d6ef5?style=for-the-badge&logo=europeanunion&logoColor=white)](https://eu-ai-act-governance-platform.vercel.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-farhanshahriyar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://shahriyar31.github.io/Farhan-Shahriyar.github.io/)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahriyar31/Shahriyar31/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahriyar31/Shahriyar31/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Shahriyar31/Shahriyar31/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
+<details>
+<summary><b>🛠️ How to activate the Snake Game workflow in your GitHub profile</b></summary>
+<br>
+
+To make the snake game load, follow these quick steps after pushing the code to GitHub:
+1. Go to your repository settings on GitHub (**Settings** > **Actions** > **General**).
+2. Under **Workflow permissions**, choose **Read and write permissions**, and click **Save**.
+3. Go to the **Actions** tab in your repository.
+4. Click on **Generate Snake Animation** in the left sidebar, click the **Run workflow** dropdown, and click **Run workflow**.
+5. Once complete, it will create the `output` branch and publish the SVGs, making the snake appear above!
+</details>
+
 ---
 
+## ⚡ System Operation Logs (Recent Activity)
+
+```bash
+$ cat ~/.logs/activity.log
+```
+
+<!--START_SECTION:activity-->
+1. 🛡️ Audited RAG agent MCP tool access parameters at [Shahriyar31/eu-ai-act-governance-platform](https://github.com/Shahriyar31/eu-ai-act-governance-platform)
+2. 🚀 Configured Sentry telemetry tracing on Azure Container Apps
+3. 📦 Updated dependencies for pip-audit check validation in CI/CD pipeline
+<!--END_SECTION:activity-->
+
+<details>
+<summary><b>🛠️ How to activate the Dynamic Activity Feed workflow</b></summary>
+<br>
+
+To make the activity feed update automatically:
+1. Ensure the write permissions for actions are enabled (same as the snake game setup).
+2. The action is configured to run every 30 minutes, but you can trigger it manually under the **Actions** tab by selecting **Update README Activity** and clicking **Run workflow**.
+</details>
+
+---
+
+<!-- Wavy Footer Banner -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1d6ef5&height=100&section=footer" />
-
-<sub>Hamburg, Germany · TU Hamburg MSc Data Science · Werkstudent @ Nordex Group</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1d6ef5&height=100&section=footer" />
+  
+  <sub>Hamburg, Germany · TU Hamburg MSc Data Science · Werkstudent @ Nordex Group</sub>
 </div>
