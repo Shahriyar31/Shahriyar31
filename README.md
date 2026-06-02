@@ -422,9 +422,9 @@ $ cat ~/.logs/activity.log
 ```
 
 <!--START_SECTION:activity-->
-1. 🛡️ Audited RAG agent MCP tool access parameters at [Shahriyar31/eu-ai-act-governance-platform](https://github.com/Shahriyar31/eu-ai-act-governance-platform)
-2. 🚀 Configured Sentry telemetry tracing on Azure Container Apps
-3. 📦 Updated dependencies for pip-audit check validation in CI/CD pipeline
+1. ❗ Opened issue [#3](https://github.com/Shahriyar31/Shahriyar31/issues/3) in [Shahriyar31/Shahriyar31](https://github.com/Shahriyar31/Shahriyar31)
+2. ❗ Opened issue [#2](https://github.com/Shahriyar31/Shahriyar31/issues/2) in [Shahriyar31/Shahriyar31](https://github.com/Shahriyar31/Shahriyar31)
+3. ❗ Opened issue [#1](https://github.com/Shahriyar31/Shahriyar31/issues/1) in [Shahriyar31/Shahriyar31](https://github.com/Shahriyar31/Shahriyar31)
 <!--END_SECTION:activity-->
 
 <p align="center">
