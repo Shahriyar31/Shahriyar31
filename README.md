@@ -334,6 +334,84 @@ graph TD
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
 </p>
 
+## ♟️ Community Chess Tournament
+
+Welcome to my online open chess tournament! Anyone visiting my profile can play. Click any legal move link below to automatically submit a turn via a GitHub Issue!
+
+<div align="center">
+
+<h3>It is <!-- BEGIN TURN -->white<!-- END TURN -->'s turn to play!</h3>
+
+<!-- BEGIN CHESS BOARD -->
+|   | A | B | C | D | E | F | G | H |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/rook.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/knight.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/bishop.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/queen.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/king.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/bishop.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/knight.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/rook.svg" width=50px> | **8** |
+| **7** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg" width=50px> | **7** |
+| **6** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | **6** |
+| **5** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | **5** |
+| **4** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | **4** |
+| **3** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png" width=50px> | **3** |
+| **2** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg" width=50px> | **2** |
+| **1** | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/rook.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/knight.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/bishop.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/queen.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/king.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/bishop.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/knight.svg" width=50px> | <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/rook.svg" width=50px> | **1** |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+<!-- END CHESS BOARD -->
+
+<br/>
+
+<h4>Move History &amp; Contributors</h4>
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
+**Latest Moves**
+<!-- BEGIN LAST MOVES -->
+
+| Move | Author |
+| :--: | :----- |
+| Start | @System |
+<!-- END LAST MOVES -->
+
+</td>
+<td width="50%" valign="top">
+
+**Top Contributors**
+<!-- BEGIN TOP MOVES -->
+
+| Total moves |  User  |
+| :---------: | :----- |
+| 0 | @System |
+<!-- END TOP MOVES -->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h4>Select a Move</h4>
+
+<!-- BEGIN MOVES LIST -->
+|  FROM  | TO (Just click a link!) |
+| :----: | :---------------------- |
+| **A2** | [A3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A4) |
+| **B1** | [A3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+A3), [C3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+C3) |
+| **B2** | [B3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B3), [B4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B4) |
+| **C2** | [C3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C2+to+C3), [C4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C2+to+C4) |
+| **D2** | [D3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D2+to+D3), [D4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D2+to+D4) |
+| **E2** | [E3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E2+to+E3), [E4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E2+to+E4) |
+| **F2** | [F3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F2+to+F3), [F4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F2+to+F4) |
+| **G1** | [F3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+F3), [H3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+H3) |
+| **G2** | [G3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G3), [G4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G4) |
+| **H2** | [H3](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/Shahriyar31/Shahriyar31/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
+<!-- END MOVES LIST -->
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
+</p>
+
 ## ⚡ System Operation Logs (Recent Activity)
 
 ```bash

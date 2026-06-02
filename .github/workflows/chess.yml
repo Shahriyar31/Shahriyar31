@@ -1,0 +1,44 @@
+name: README Chess
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'Chess:')
+    permissions:
+      issues: write
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install python-chess PyYAML PyGithub
+
+      - name: Play move
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python main.py
+
+      - name: Sync Readme copies
+        run: |
+          cp README.md Readme.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md Readme.md games/ data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "play: move by @${{ github.event.issue.user.login }}" && git push origin main)
