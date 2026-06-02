@@ -1,143 +1,207 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahriyar31.shahriyar31" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=45&center=true&vCenter=true&width=500&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Farhan+Shahriyar!;" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=200&section=header&text=Farhan%20Shahriyar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Governance%20%C2%B7%20DevSecOps%20%C2%B7%20MSc%20Data%20Science%20%C2%B7%20Hamburg&descAlignY=58&descSize=18&descColor=c7d2fe" />
 
-<h3 align="left" style="font-size: 24px; color: #2AB0EE;">A passionate Data Science and Machine Learning enthusiast from India, currently pursuing a Master's in Data Science in Germany.</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232AB0EE&size=35&center=true&vCenter=true&width=450&duration=3000&pause=1000&lines=Data+Science;Data+Engineer;Machine+Learning+Explorer" width="auto" height="35"/>
-</p>
-
-<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ About Me ⚡</h2>
-<p align="left" style="max-width: 800px; margin: auto;">
-🔭 I’m currently working on: Enhancing my knowledge in MLOps, solving LeetCode problems in Python, and preparing for my exams.<br>👯 I’m looking to collaborate on: Projects in Machine Learning, Data Science, Data Engineering, and solving challenging LeetCode problems—let’s discuss time and space complexity!<br>🤝 I’m looking for help with: Advanced concepts in MLOps, optimizing LeetCode solutions, and mastering algorithmic problem-solving techniques.<br>🌱 I’m currently learning: Expanding my knowledge in technology and refining my problem-solving and coding skills.<br>💬 Ask me about: Data Science, Machine Learning, Python Development, GCP, AWS, and deploying containerized applications using Docker.<br>⚡ Fun fact:  I sometimes refer to my GPU as my "co-pilot" for late-night coding marathons.<br>
-</p>
-
-<h2 align="left">⚡ I code with ⚡</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
-###
+<div align="center">
 
-<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ My GitHub Activity and Contributions ⚡</h2>
-<p align="left">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyar31&show_icons=true&locale=en&layout=compact&theme=dark" alt="shahriyar31" width="45%" />
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Shahriyar31&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="shahriyar31" width="45%" />
-  </div>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=1d6ef5&center=true&vCenter=true&width=700&lines=EU+AI+Act+%7C+GDPR+%7C+NIST+AI+RMF;LangGraph+%7C+FastAPI+%7C+pgvector+%7C+Azure;DevSecOps+%7C+SAST+%7C+SCA+%7C+Container+Security;Kafka+%7C+Flink+%7C+GCP+%7C+AWS+%7C+Docker)](https://git.io/typing-svg)
 
-
-<h2 align="left" style="font-size: 36px; color: #2AB0EE; margin-top: 40px;">⚡ Additional Stats ⚡</h2>
-<p align="left" style="margin-top: 40px;">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriyar31&theme=dark" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriyar31&theme=dark&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriyar31&theme=dark" height="180em" alt="Commitments"/>
-</p>
-
-<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Trophies ⚡</h2>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahriyar31&theme=darkhub&row=1&column=6" alt="shahriyar31" />
-  </a>
-</p>
-
-<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Connect with Me ⚡</h2>
-<div align="left">
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/farhanshahriyar" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-<!-- Gmail -->
-<a href="mailto:shahriyarfarhan3101@gmail.com" target="_blank">      
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-<!-- Outlook -->
-<a href="shahriyarfarhan3101@outlook.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-<!-- StackOverflow -->
-<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
 
-<h2 align="left" style="font-size: 36px; color: #2AB0EE;">⚡ Stats ⚡</h2>
-<p align="left" style="margin-bottom: 40px;">
-  <!-- Streak Stats -->
-  <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyar31&theme=black-ice&background=242424&ring=2AB0EE&fire=2AB0EE" alt="shahriyar31" />
+---
 
-  <!-- GitHub Stats -->
-  <img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&locale=en&theme=radical&bg_color=242424&border_color=2AB0EE" alt="shahriyar31" />
-</p>
+## Who I am
+
+MSc Data Science student at **TU Hamburg** and Werkstudent at **Nordex Group**. I build at the intersection of AI systems and the regulatory frameworks that govern them — reading EU AI Act articles in the morning, writing LangGraph agents in the afternoon.
+
+My portfolio: **[farhanshahriyar.vercel.app](https://shahriyar31.github.io/Farhan-Shahriyar.github.io/)**
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Argus AI — EU AI Act Governance Platform**
+
+Automated compliance platform covering EU AI Act risk classification, GDPR DPIA generation, OWASP LLM Top 10 assessment, and NIST AI RMF mapping.
+
+- LangGraph agent with human-in-the-loop interrupt
+- 665+ regulatory chunks in pgvector RAG (Groq Llama-3.3-70b)
+- Azure Container Apps · Stripe billing · Multi-tenant
+- DevSecOps pipeline: SAST → SCA → Trivy → ACR · 114+ CI runs
+- JWT refresh tokens · Prometheus · Grafana · Sentry
+
+[**Landing**](https://eu-ai-act-governance-platform.vercel.app) · [**Platform**](https://eu-ai-governance.salmonocean-15ddaf55.germanywestcentral.azurecontainerapps.io) · [**Code**](https://github.com/Shahriyar31/eu-ai-act-governance-platform)
+
+</td>
+<td width="50%" valign="top">
+
+**🔬 Digital Twin Dashboard — TUHH Research**
+
+Real-time anomaly detection and forecasting dashboard for a digital twin simulation. Full CI/CD pipeline with GitHub Actions and Docker.
+
+`Python` `Dash` `Plotly` `Scikit-learn` `Docker` `GitHub Actions`
+
+[**Code**](https://github.com/rkraeuter/DigitalTwinGF3)
+
+---
+
+**☢️ Radiation Tracker**
+
+Real-time radiation sensor streaming platform on GCP using Apache Kafka and Apache Flink. Fully containerised with Docker Compose.
+
+`Kafka` `Flink` `GCP` `Docker` `Node.js`
+
+[**Code**](https://github.com/Shahriyar31/Radiaton_Tracking)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📈 StockFlow — Real-Time Data Pipeline**
+
+End-to-end real-time stock market pipeline. Kafka producer streams live data, consumer writes to S3, AWS Glue crawls, Athena queries.
+
+`Apache Kafka` `AWS S3` `AWS Glue` `Amazon Athena` `Python` `EC2`
+
+[**Code**](https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka)
+
+</td>
+<td width="50%" valign="top">
+
+**🐔 Poultry Shield — AI Veterinary Diagnostics**
+
+CNN achieving **97.51% accuracy** on Coccidiosis detection in poultry. VGG16 fine-tuned from scratch with no domain knowledge. DVC pipeline, Flask API deployed on AWS EC2.
+
+`TensorFlow` `VGG16` `Flask` `OpenCV` `AWS EC2` `DVC`
+
+[**Code**](https://github.com/Shahriyar31/Poultry_Shield-Deep-Learning-for-Poultry-Coccidiosis-Diagnosis)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Research
+
+Currently writing a paper at **TU Hamburg** on mapping the OWASP LLM Top 10 to EU AI Act requirements — a systematic control-by-control analysis covering all ten LLM risks against specific Act articles, with GDPR and ISO 27001 alignment. The work introduces a three-layer governance architecture for enterprise RAG systems and analyses novel legal-technical intersections including the confused deputy problem as a personal data breach under GDPR Art. 4(12), and the governance tension between AI Act Art. 14 (human oversight) and GDPR Art. 22 (automated decision-making).
+
+---
+
+## Tech Stack
+
+**AI & LLM Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**DevSecOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Security Scanning**
+
+![Bandit](https://img.shields.io/badge/Bandit-SAST-d83b01?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-Pattern_Analysis-1d6ef5?style=flat-square)
+![pip-audit](https://img.shields.io/badge/pip--audit-SCA-107c10?style=flat-square)
+![Syft](https://img.shields.io/badge/Syft-SBOM-8b5cf6?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-CVE_Scan-f59e0b?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-Container_Scan-1904DA?style=flat-square)
+
+**Data Engineering**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shahriyar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1d6ef5" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6ef5&text_color=c9d1d9&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shahriyar31&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6ef5&fire=8b5cf6&currStreakLabel=1d6ef5&sideLabels=c9d1d9&dates=8b949e&stroke=1d6ef5" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriyar31&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+## Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahriyar31/shahriyar31/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahriyar31/shahriyar31/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shahriyar31/shahriyar31/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Shahriyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanshahriyar)
+[![Email](https://img.shields.io/badge/Email-shahriyarfarhan3101@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarfarhan3101@gmail.com)
+[![Argus AI](https://img.shields.io/badge/Argus_AI-Live_Platform-1d6ef5?style=for-the-badge&logo=europeanunion&logoColor=white)](https://eu-ai-act-governance-platform.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanshahriyar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://shahriyar31.github.io/Farhan-Shahriyar.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1d6ef5&height=100&section=footer" />
+
+<sub>Hamburg, Germany · TU Hamburg MSc Data Science · Werkstudent @ Nordex Group</sub>
+
+</div>
