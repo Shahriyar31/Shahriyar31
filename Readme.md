@@ -43,7 +43,7 @@
 <td width="65%" valign="top">
 <h3>🛡️ Bridging Policy & Production Code</h3>
 <p>I operate where regulatory requirements and hands-on system architecture converge. While policy analysts write compliance papers and engineers code black boxes, I write <b>Compliance-as-Code</b>—translating the <b>EU AI Act, GDPR, and NIST AI RMF</b> into automated CI/CD security gates and audited RAG safeguards.</p>
-<p>Currently automating AI lifecycle gates at <b>Nordex Group</b> and researching security threats within the Model Context Protocol (MCP) at <b>TU Hamburg</b>.</p>
+<p>Currently Working Student at <b>Nordex Group</b> and researching security threats within the Model Context Protocol (MCP) at <b>TU Hamburg</b>.</p>
 <p><b>Core Objective:</b> Guaranteeing that enterprise agentic systems remain secure, deterministic, and fully compliant under global legal frameworks.</p>
 </td>
 <td width="35%" align="center" valign="middle">
@@ -58,12 +58,12 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/TU_Hamburg-MSc_Data_Science-003399?style=for-the-badge&logo=education&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nordex_Group-AI_Security_Werkstudent-8b5cf6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Nordex_Group-Working_Student-8b5cf6?style=for-the-badge" />
     <img src="https://img.shields.io/badge/TU_Hamburg-Preprint_Author_2026-1d6ef5?style=for-the-badge" />
   </p>
   
   *   **Academic Base:** Hamburg University of Technology (TU Hamburg) — MSc Data Science. High-dimensional data analytics, OT security, and AI system modeling.
-  *   **Corporate Impact:** Nordex Group — Creating the corporate AI repository, writing the Gate 0-5 governance workflows, and running automated container CVE scans.
+  *   **Corporate Base:** Nordex Group — Working Student.
   *   **Specializations:** GDPR Article 35 (DPIAs), EU AI Act Annex III classifications, OWASP LLM Top 10 auditing, and Model Context Protocol (MCP) threat modeling.
 </details>
 <p align="center">
@@ -148,77 +148,7 @@ graph TD
 </p>
 
 ## 🏭 Professional Experience
-### **Nordex Group** — *AI Security & Governance Werkstudent*
-*Aug 2025 – Present | Hamburg, Germany*
-
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr style="background-color: #0d1117;">
-<!-- Card 1: AI Security -->
-<td width="25%" align="left" valign="top" style="border: 2px solid #1904DA; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-<div align="center">
-<img src="https://img.shields.io/badge/PHASE_1-AI_SECURITY-1904DA?style=for-the-badge" alt="Security Phase" />
-</div>
-<br />
-<b>🔐 SAST & SCA Integration</b>
-<ul>
-<li>Audited 9 DevSecOps vulnerability suites</li>
-<li>Coded custom blocking CI/CD security gates</li>
-<li>Modeled vectors in OWASP Threat Dragon</li>
-</ul>
-</td>
-<!-- Card 2: AI Governance -->
-<td width="25%" align="left" valign="top" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-<div align="center">
-<img src="https://img.shields.io/badge/PHASE_2-AI_GOVERNANCE-8b5cf6?style=for-the-badge" alt="Governance Phase" />
-</div>
-<br />
-<b>📋 Policy & GRC Mapping</b>
-<ul>
-<li>Designed the corporate Gate 0-5 workflow</li>
-<li>Mapped pipeline risks to EU AI Act Annex III</li>
-<li>Created automated GDPR DPIA checklists</li>
-</ul>
-</td>
-<!-- Card 3: Agent Deployment -->
-<td width="25%" align="left" valign="top" style="border: 2px solid #0089D6; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-<div align="center">
-<img src="https://img.shields.io/badge/PHASE_3-AGENT_DEPLOY-0089D6?style=for-the-badge" alt="Agent Phase" />
-</div>
-<br />
-<b>🤖 Enterprise RAG Systems</b>
-<ul>
-<li>Built Azure AI Foundry integrations</li>
-<li>Engineered MCP custom function tools</li>
-<li>Designed 29-scenario LLM-as-a-judge suite</li>
-</ul>
-</td>
-<!-- Card 4: Product Delivery -->
-<td width="25%" align="left" valign="top" style="border: 2px solid #107c10; border-radius: 8px; padding: 12px; background-color: #0d1117;">
-<div align="center">
-<img src="https://img.shields.io/badge/PHASE_4-DELIVERY-107c10?style=for-the-badge" alt="Delivery Phase" />
-</div>
-<br />
-<b>🚀 Product Engineering PO</b>
-<ul>
-<li>Led delivery across 6 engineering teams</li>
-<li>Unblocked and integrated enterprise AI tools</li>
-</ul>
-</td>
-</tr>
-</table>
-
-* **🔐 AI Security Posture**
-  * Evaluated **9 DevSecOps tools** on active production images; identified hidden CVEs, Dockerfile issues, and secrets.
-  * Coded the **CI/CD security gate** that blocks deployment promotions on Critical CVE detections.
-  * Performed architectural threat modeling utilizing **OWASP Threat Dragon**.
-* **📋 AI Lifecycle Policy**
-  * Designed and standard-set the corporate **6-phase AI Lifecycle Framework (Gate 0–5)** with RACI matrices.
-  * Mapped and aligned internal pipelines to **GDPR, EU AI Act Annex III**, and **NIST AI RMF 1.0**.
-* **🤖 Production AI Agent**
-  * Developed a corporate RAG agent on **Azure AI Foundry** with hybrid vector search and custom **MCP function tools**.
-  * Built an **LLM-as-a-judge suite** using 29 golden dataset questions to evaluate OpenAI models on quality, cost, and speed.
-* **🗂️ Project Leadership**
-  * Drove a stalled enterprise AI integration across **6 cross-functional teams** to final production deployment.
+* **Working Student** — Nordex Group *(Aug 2025 – Present | Hamburg, Germany)*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
 </p>
@@ -435,5 +365,5 @@ $ cat ~/.logs/activity.log
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1d6ef5&height=100&section=footer" />
   
-  <sub>Hamburg, Germany · TU Hamburg MSc Data Science · Werkstudent @ Nordex Group</sub>
+  <sub>Hamburg, Germany · TU Hamburg MSc Data Science · Working Student @ Nordex Group</sub>
 </div>
