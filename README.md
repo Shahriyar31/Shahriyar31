@@ -59,7 +59,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/TU_Hamburg-MSc_Data_Science-003399?style=for-the-badge&logo=education&logoColor=white" />
     <img src="https://img.shields.io/badge/Nordex_Group-Working_Student-8b5cf6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/TU_Hamburg-Preprint_Author_2026-1d6ef5?style=for-the-badge" />
+    <!-- <img src="https://img.shields.io/badge/TU_Hamburg-Preprint_Author_2026-1d6ef5?style=for-the-badge" /> -->
   </p>
   
   *   **Academic Base:** Hamburg University of Technology (TU Hamburg) — MSc Data Science. High-dimensional data analytics, OT security, and AI system modeling.
@@ -70,6 +70,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
 </p>
 
+<!--
 ## 🔬 Research Spotlight
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
@@ -91,6 +92,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6ef5,100:8b5cf6&height=20&section=footer" width="100%"/>
 </p>
+-->
 
 ## 🛡️ Featured Platform: Argus AI
 ### *The Automated EU AI Act & GDPR Auditing System*
