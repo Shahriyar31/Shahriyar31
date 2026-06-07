@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
   <a href="mailto:shahriyarfarhan3101@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Shahriyar31"><img src="https://img.shields.io/github/followers/shahriyar31?label=Follow&style=for-the-badge&logo=github&color=24292e"/></a>
+  <a href="https://github.com/Shahriyar31"><img src="https://img.shields.io/badge/Follow-@Shahriyar31-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <!-- Live Indicators -->
