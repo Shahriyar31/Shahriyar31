@@ -354,8 +354,8 @@ $ cat ~/.logs/activity.log
 ```
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Mizan v1.0.0](https://github.com/Shahriyar31/mizan/releases/tag/v1.0.0) in [Shahriyar31/mizan](https://github.com/Shahriyar31/mizan)
-2. ❗ Opened issue [#2](https://github.com/Shahriyar31/Shahriyar31/issues/2) in [Shahriyar31/Shahriyar31](https://github.com/Shahriyar31/Shahriyar31)
+1. 🎉 Merged PR [#1](https://github.com/Shahriyar31/myportfolio/pull/1) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
+2. 💪 Opened PR [#1](https://github.com/Shahriyar31/myportfolio/pull/1) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
 3. ❗ Opened issue [#1](https://github.com/Shahriyar31/Shahriyar31/issues/1) in [Shahriyar31/Shahriyar31](https://github.com/Shahriyar31/Shahriyar31)
 <!--END_SECTION:activity-->
 
