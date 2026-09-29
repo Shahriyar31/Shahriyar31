@@ -354,9 +354,9 @@ $ cat ~/.logs/activity.log
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Shahriyar31/myportfolio/pull/1) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
-2. 💪 Opened PR [#1](https://github.com/Shahriyar31/myportfolio/pull/1) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
-3. ❗ Opened issue [#1](https://github.com/Shahriyar31/Shahriyar31/issues/1) in [Shahriyar31/Shahriyar31](https://github.com/Shahriyar31/Shahriyar31)
+1. 🎉 Merged PR [#6](https://github.com/Shahriyar31/myportfolio/pull/6) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
+2. 💪 Opened PR [#6](https://github.com/Shahriyar31/myportfolio/pull/6) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
+3. 🎉 Merged PR [#5](https://github.com/Shahriyar31/myportfolio/pull/5) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
 <!--END_SECTION:activity-->
 
 <p align="center">
