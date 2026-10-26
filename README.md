@@ -354,9 +354,9 @@ $ cat ~/.logs/activity.log
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Shahriyar31/myportfolio/pull/6) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
-2. 💪 Opened PR [#6](https://github.com/Shahriyar31/myportfolio/pull/6) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
-3. 🎉 Merged PR [#5](https://github.com/Shahriyar31/myportfolio/pull/5) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
+1. 🚀 Published release [Eureka 1.0.0](https://github.com/Shahriyar31/eureka/releases/tag/v1.0.0) in [Shahriyar31/eureka](https://github.com/Shahriyar31/eureka)
+2. 🎉 Merged PR [#6](https://github.com/Shahriyar31/myportfolio/pull/6) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
+3. 💪 Opened PR [#6](https://github.com/Shahriyar31/myportfolio/pull/6) in [Shahriyar31/myportfolio](https://github.com/Shahriyar31/myportfolio)
 <!--END_SECTION:activity-->
 
 <p align="center">
